@@ -1,5 +1,5 @@
 # Apple-Thumbslider
-<block>Apple Thumbslider</block>  <br />
+<h1>Apple Thumbslider</h1>  <br />
 
 
 
